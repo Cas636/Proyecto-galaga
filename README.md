@@ -24,10 +24,10 @@ git clone https://github.com/Cas636/Proyecto-galaga.git
 Aquí puedes ver algunas imágenes del juego:
 
 ### Pantalla de inicio
- `![Descripción](/recursos/img1.png)`
- `![Descripción](/recursos/img2.png)`
+
+<span>![</span><span>La pantalla de inicio es la primera interfaz que los jugadores ven al iniciar el juego Galaga. Su diseño está destinado a proporcionar una presentación atractiva y funcionalidad básica para navegar por el juego. </span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/cas636/Proyecto-galaga/main/recursos/img1.png</span><span>)</span>
+ <span>(</span><span>https://raw.githubusercontent.com/cas636/Proyecto-galaga/main/recursos/img2.png</span><span>)</span>
+
 ### Jugabilidad
- `![Descripción](/recursos/img3.png)`
- `![Descripción](/recursos/img4.png)`
-
-
+ <span>(</span><span>https://raw.githubusercontent.com/cas636/Proyecto-galaga/main/recursos/img3.png</span><span>)</span>
+ <span>(</span><span>https://raw.githubusercontent.com/cas636/Proyecto-galaga/main/recursos/img4.png</span><span>)</span>
