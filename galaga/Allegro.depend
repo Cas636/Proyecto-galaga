@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1343250946 source:d:\borrar\disparos allegro\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 d:\borrar\disparos allegro\inicia.h
+
+1561951785 source:d:\borrar\disparos allegro\main.cpp
+	<allegro.h>
+	"inicia.h"
+
+1343250946 source:d:\borrar\galaga\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 d:\borrar\galaga\inicia.h
+
+1562775732 source:d:\borrar\galaga\main.cpp
+	<allegro.h>
+	<stdlib.h>
+	"inicia.h"
+
+1343250946 source:d:\proyecto galaga\galaga\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 d:\proyecto galaga\galaga\inicia.h
+
+1563201020 source:d:\proyecto galaga\galaga\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<math.h>
+	"inicia.h"
+
+1563056950 source:h:\proyecto galaga\galaga\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	"inicia.h"
+
+1341435802 h:\proyecto galaga\galaga\inicia.h
+
+1343250946 source:h:\proyecto galaga\galaga\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1343250946 source:e:\proyecto galaga\galaga\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1341435802 e:\proyecto galaga\galaga\inicia.h
+
+1563201020 source:e:\proyecto galaga\galaga\main.cpp
+	<iostream>
+	<allegro.h>
+	<stdlib.h>
+	<math.h>
+	"inicia.h"
+
