@@ -24,7 +24,7 @@ git clone https://github.com/Cas636/Proyecto-galaga.git
 Aquí puedes ver algunas imágenes del juego:
 
 ### Pantalla de inicio
-
+La pantalla de inicio es la primera interfaz que los jugadores ven al iniciar el juego Galaga. Su diseño está destinado a proporcionar una presentación atractiva y funcionalidad básica para navegar por el juego.
 ![La pantalla de inicio es la primera interfaz que los jugadores ven al iniciar el juego Galaga. Su diseño está destinado a proporcionar una presentación atractiva y funcionalidad básica para navegar por el juego. ](/recursos/img1.png)
 ![](/recursos/img2.png)
 
